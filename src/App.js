@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <h1>personal site</h1>
+    <h1>Ameen Izhac's Personal Website</h1>
   )
 }
 

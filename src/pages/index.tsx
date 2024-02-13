@@ -3,9 +3,9 @@ export default function Home() {
     <>
       <h3>Hello, welcome to my website.<h3>
         
-        </h3> Sorry it is mostly empty at the moment, I plan to work on it when I have time. </h3>
+        </h3> Sorry it's mostly empty at the moment, I plan to work on it when I have time. </h3>
       
-        <h3> For now, I would like to direct you to the following YouTube channel. This person is very knowledgeable and has likely answered any questions you may have about Islam.</h3>
+        <h3> For now, I would like to direct you to the following YouTube channel. This person is very knowledgeable and has likely answered many of the questions you may have about Islam.</h3>
         
         <h3>
         <a href="https://www.youtube.com/@TheMuslimLantern">The Muslim Lantern</a>

@@ -1,15 +1,15 @@
 export default function Home() {
   return (
     <>
-      <h1>Hello, welcome to my website.<h1>
+      <h3>Hello, welcome to my website.<h3>
         
-        </h1> Sorry it is mostly empty at the moment, I plan to work on it when I have time. </h1>
+        </h3> Sorry it is mostly empty at the moment, I plan to work on it when I have time. </h3>
+      
+        <h3> For now, I would like to direct you to the following YouTube channel. This person is very knowledgeable and has likely answered any questions you may have about Islam.</h3>
         
-        <h1> For now, I would like to direct you to the following YouTube channel. This person is very knowledgeable and has likely answered any questions you may have about Islam.</h1>
-        
-        <h1>
+        <h3>
         <a href="https://www.youtube.com/@TheMuslimLantern">The Muslim Lantern</a>
-        </h1>
+        </h3>
       
       <p>If you have any other questions:</p>
       <p>My phone number - +44 7443 494601</p>
